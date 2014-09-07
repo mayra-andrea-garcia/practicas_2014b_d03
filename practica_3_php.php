@@ -1,5 +1,6 @@
 <?php
 
+//Mayra Andrea Garcia Martinez
 function multiplicar($inicioTabla=1, $numTablas=10, $numMultiplicar=12)
 {
 
